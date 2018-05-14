@@ -1,4 +1,4 @@
-# [Python Data Science and Machine Learning Bootcamp](https://udemy.com/python-for-data-science-and-machine-learning-bootcamp)
+# [Python for Data Science and Machine Learning Bootcamp](https://udemy.com/python-for-data-science-and-machine-learning-bootcamp)
 ![Pierian_Data_Logo](Pierian_Data_Logo.png)
 
 ### Course content
